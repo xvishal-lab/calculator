@@ -1,6 +1,11 @@
 {
   "name": "Candy Calculator",
   "short_name": "Calculator",
+  {
+  "name": "Candy Calculator",
+  "short_name": "Calculator",
+  "id": "com.vishal.calculator",
+  "description": "A customizable calculator app",
   "start_url": "/calculator/",
   "scope": "/calculator/",
   "display": "standalone",
