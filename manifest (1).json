@@ -1,0 +1,13 @@
+{
+  "background_color": "#7b2ff7",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Candy Calculator",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Calculator",
+  "start_url": "/",
+  "theme_color": "#f72fb0",
+  "description": "A customizable calculator app",
+  "id": "com.vishal.calculator"
+}
